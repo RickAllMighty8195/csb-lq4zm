@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://rickallmighty8195.github.io/csb-lq4zm/static/css/main.f59dff40.chunk.css",
+    "main.js": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/main.75d97339.chunk.js",
+    "main.js.map": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/main.75d97339.chunk.js.map",
+    "runtime-main.js": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/runtime-main.6669dc2c.js",
+    "runtime-main.js.map": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/runtime-main.6669dc2c.js.map",
+    "static/js/2.995a9cff.chunk.js": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/2.995a9cff.chunk.js",
+    "static/js/2.995a9cff.chunk.js.map": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/2.995a9cff.chunk.js.map",
+    "index.html": "https://rickallmighty8195.github.io/csb-lq4zm/index.html",
+    "precache-manifest.e53047a3cc283742eab649964fc71c42.js": "https://rickallmighty8195.github.io/csb-lq4zm/precache-manifest.e53047a3cc283742eab649964fc71c42.js",
+    "service-worker.js": "https://rickallmighty8195.github.io/csb-lq4zm/service-worker.js",
+    "static/css/main.f59dff40.chunk.css.map": "https://rickallmighty8195.github.io/csb-lq4zm/static/css/main.f59dff40.chunk.css.map",
+    "static/js/2.995a9cff.chunk.js.LICENSE.txt": "https://rickallmighty8195.github.io/csb-lq4zm/static/js/2.995a9cff.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://rickallmighty8195.github.io/csb-lq4zm/static/media/logo.be622899.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6669dc2c.js",
+    "static/js/2.995a9cff.chunk.js",
+    "static/css/main.f59dff40.chunk.css",
+    "static/js/main.75d97339.chunk.js"
+  ]
+}
